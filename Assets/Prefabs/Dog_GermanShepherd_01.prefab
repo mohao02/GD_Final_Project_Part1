@@ -3052,7 +3052,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.21417546, y: 0.3187428, z: 0.34187457}
+  m_Size: {x: 0.22, y: 0.26, z: 0.37}
   m_Center: {x: -0.00032892227, y: 0.10115607, z: 0.022301042}
 --- !u!1 &5013988484789275242
 GameObject:

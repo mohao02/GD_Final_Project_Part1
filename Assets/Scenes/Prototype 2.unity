@@ -285,6 +285,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3374602010980939263, guid: 78a792ab9024a4a5b87d1ec720129444, type: 3}
+      propertyPath: m_Size.x
+      value: 0.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3374602010980939263, guid: 78a792ab9024a4a5b87d1ec720129444, type: 3}
+      propertyPath: m_Size.y
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 3374602010980939263, guid: 78a792ab9024a4a5b87d1ec720129444, type: 3}
+      propertyPath: m_Size.z
+      value: 0.32
+      objectReference: {fileID: 0}
     - target: {fileID: 5384007962489246526, guid: 78a792ab9024a4a5b87d1ec720129444, type: 3}
       propertyPath: m_Name
       value: Animal_Fox_01
@@ -703,13 +715,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1977726782134187964, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
+      propertyPath: m_Size.x
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1977726782134187964, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
+      propertyPath: m_Size.y
+      value: 0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1977726782134187964, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
+      propertyPath: m_Size.z
+      value: 0.37
+      objectReference: {fileID: 0}
     - target: {fileID: 4159508157466630494, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 4159508157466630494, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.52
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 4159508157466630494, guid: c6c6d2aaa23c84a019c0507f903abf22, type: 3}
       propertyPath: m_LocalPosition.z
